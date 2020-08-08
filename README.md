@@ -1,3 +1,5 @@
-This is the game rock-paper-scissors-lizard-spock.
+This is the game 'rock-paper-scissors-lizard-spock'.
 
-Have fun!
+How to start: python rock-paper-scissors-lizard-spock.py
+
+Have fun playing it!
